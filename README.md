@@ -3,7 +3,7 @@ Web App aggregator platform for Essential Health care Product and Services Marke
 This is a link to the Medlinkr App, a tech MVP, that was developed and launched by a Project team which i led as Project Manager and Business Analyst.
 The Medlinkr App is a health tech servicing platform for Medbury Medical Services, which is a niche healthcare institution with a mission to build a healthcare ecosystem by aggregating patient-centered providers of medical, pharmaceutical and ancillary services in within the healthcare value chain in order to provide wholistic care to clients home abroad.
 !{Link}https://apps.apple.com/ng/app/medlinkr/id1608347968)
-How to Register ![link](https://youtu.be/3UdOqIY0Xoo)
+How to Register !{link}(https://youtu.be/3UdOqIY0Xoo)
 How to book appointment for Lab tests and Employee fitness assessments ![Link](https://youtu.be/swGoO1no3HE)
 How to call an Ambulance ![Link](https://youtu.be/1-RNyuJteIk)
 How to Talk to a Doctor through the Digital Clinic ![Link](https://youtu.be/3pP80s8dXd4)
